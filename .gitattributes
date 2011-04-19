@@ -1,0 +1,3 @@
+.git*            export-ignore
+
+*.txt            whitespace=tab-in-indent,no-lf-at-eof
