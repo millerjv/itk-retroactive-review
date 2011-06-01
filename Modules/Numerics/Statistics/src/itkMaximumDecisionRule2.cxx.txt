@@ -1,0 +1,14 @@
+This class replaces itkMaximumDecisionRule. itkMaximumDecisionRule2
+has been renamed to itkMaximumDecisionRule with the following changes.
+
+PrintSelf() method only called superclass. Removed.
+
+Formating of function declaration does not match style. Fixed.
+
+Implementation assumed the size of the discriminant scores was not zero. Fixed.
+
+See notes in itkDecisionRule on class label types and membership values.
+
+Status: Rated
+Rating: Done
+

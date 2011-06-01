@@ -1,0 +1,17 @@
+This class is part of the refactoring of statistics framework. It
+serves the purpose of the original itkDecisionRuleBase.h.  This is a
+near duplicate of DecisionRuleBase. It is not a subclass of
+DecisionRuleBase and it does not support the full API of
+DecisionRuleBase. This appears to be by design.
+
+Class and methods are not sufficiently documented. Fixed.
+
+PrintSelf() method only called superclass method. Removed.
+
+Class labels are restricted to be unsigned int. Changed to be a typedef to a std::vector::size_type
+
+Discriminant values are restricted to be double. Added a typedef for the value type.
+
+Status: Rated
+Rating: Done
+

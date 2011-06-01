@@ -1,0 +1,12 @@
+This class has been replaced by
+itkMinimumDecisionRule2. itkMinimumDecisionRule2 has been renamed to
+itkMinimumDecisionRule with the following changes.
+
+Class documentation insufficient. Fixed.
+
+See notes in itkDecisionRule on class label types and membership values.
+
+PrintSelf() method unnecessary. Removed.
+
+Status: Rated
+Rating: Done
