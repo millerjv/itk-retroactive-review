@@ -9,6 +9,6 @@ Implementation assumed the size of the discriminant scores was not zero. Fixed.
 
 See notes in itkDecisionRule on class label types and membership values.
 
-Status: Rated
-Rating: Done
+Status: Done
+Rating: Remove
 

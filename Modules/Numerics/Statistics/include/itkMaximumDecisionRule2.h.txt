@@ -6,5 +6,5 @@ See notes in itkDecisionRule on class label types and membership values.
 
 PrintSelf() method unnecessary. Removed.
 
-Status: Rated
-Rating: Done
+Status: Done
+Rating: Remove

@@ -1,4 +1,4 @@
 PrintSelf() method only called superclass. Removed.
 
-Status: Rated
-Rating: Done
+Status: Done
+Rating: Good

@@ -8,5 +8,5 @@ PrintSelf() method unnecessary. Removed.
 
 Formatting of function declarations did not match style. Fixed.
 
-Status: Rated
-Rating: Done
+Status: Done
+Rating: Good

@@ -2,5 +2,5 @@ This class has been replaced by itkDecisionRule.
 
 Class has been removed.
 
-Status: Rated
-Rating: Done
+Status: Done
+Rating: Remove
