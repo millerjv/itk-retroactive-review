@@ -12,6 +12,6 @@ Class labels are restricted to be unsigned int. Changed to be a typedef to a std
 
 Discriminant values are restricted to be double. Added a typedef for the value type.
 
-Status: Rated
-Rating: Done
+Status: Done
+Rating: Good
 

@@ -1,7 +1,7 @@
 This class has been replaced by itkDecisionRule. itkDecisionRuleBase should be removed. 
 
-Status: Rated
-Rating: Done
+Status: Done
+Rating: Remove
 
 
 

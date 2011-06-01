@@ -22,5 +22,5 @@ Changed implementation to avoid nearly dividing by zero. Method is now calculate
 
 Ideally, there would be a scale factor applied to the ratio of priors so you could manage/balance the risk (balance Type I and Type II errors). But this is hard to do for anything other than a two class problem. (This is the only thing that keeps it from being marked "Done".)
 
-Status: Rated
+Status: Done
 Rating: Good
