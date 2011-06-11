@@ -1,0 +1,16 @@
+Class documentation incomplete. Fixed.
+
+MeasurementVectorSizeType is unsigned int. Should this be a size_t?
+
+Method documentation incomplete. Fixed.
+
+Missing copy constructor and operator= declarations (without implementations). Fixed.
+
+m_MeasurementVectorSize should be protected. Fixed.
+
+Clone() not defined but defined in subclasses. Fixed.
+
+Do we need the word "Base" in the classname?
+
+Status: Done
+Rating: Good
