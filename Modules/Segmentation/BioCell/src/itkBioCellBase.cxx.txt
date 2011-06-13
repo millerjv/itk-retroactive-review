@@ -1,0 +1,11 @@
+Status: Rated
+
+Rated: Major
+
+Fixed minor errors (typos, grammar), but the following issues still exist:
+
+1) This file uses the "bio" namespace, so the filename is not technically the same as class name, and
+there have been discussions about limiting extra namespaces.
+
+2) Method documentation should be in the .h file, not the .txx file.
+

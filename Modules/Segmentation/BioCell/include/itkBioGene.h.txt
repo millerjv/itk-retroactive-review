@@ -1,0 +1,12 @@
+Status: Rated
+
+Rated: Major
+
+Fixed minor errors (typos, grammar, \brief), but the following issues still exist:
+
+1) This file uses the "bio" namespace, so the filename is not technically the same as class name, and
+there have been discussions about limiting extra namespaces.
+
+2) Did not pass KWStyle test.  KWStyle output:
+
+Error #12 (56) Indent is wrong 2 (should be 4)
