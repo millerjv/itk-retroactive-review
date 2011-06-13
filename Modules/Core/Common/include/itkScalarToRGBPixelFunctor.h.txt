@@ -1,0 +1,7 @@
+Status: Rated
+
+Rating: Major
+
+Fixed minor typo/grammar and code-style errors.  The following issues remain:
+
+1)Uses itk and Functor namespaces, and there has been discussion about eliminating multiple namespaces.

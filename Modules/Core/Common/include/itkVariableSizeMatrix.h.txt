@@ -1,0 +1,5 @@
+Status: Rated
+
+Rating: Minor
+
+Fixed minor braces and code-style issues.  And a minor code style issue in \brief.

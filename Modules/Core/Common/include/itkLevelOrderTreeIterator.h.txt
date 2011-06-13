@@ -1,0 +1,5 @@
+Status: Rated
+
+Rating: Minor
+
+Lacks complete Doxygen documentation (\brief, etc.), but otherwise the file is ok.

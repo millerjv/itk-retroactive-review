@@ -1,0 +1,6 @@
+Status: Rated
+
+Rating: Major
+
+1) No class Doxygen documentation
+2) Multiple classes in one file

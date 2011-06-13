@@ -1,0 +1,8 @@
+Status: Rated
+
+Rating: Major
+
+Gave the file a \brief.  The following errors remain:
+
+1) The file contains multiple classes in one file.
+2) KWStyle error report: Error #15 (71) Type definition (size_type) doesn't match regular expression

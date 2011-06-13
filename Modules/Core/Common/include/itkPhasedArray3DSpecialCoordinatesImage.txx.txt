@@ -1,0 +1,5 @@
+Status: Rated
+
+Rating: Good
+
+Lacks comments or method documentation, but otherwise is ok.

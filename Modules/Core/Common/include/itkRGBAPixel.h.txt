@@ -1,0 +1,6 @@
+Status: Rated
+
+Rating: Minor
+
+Fixed minor typo/grammar issues, brace issues, and overall code style issues.
+

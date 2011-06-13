@@ -1,0 +1,5 @@
+Status: Rated
+
+Rating: Good
+
+File lacks and comments of method documentation, but otherwise is good.

@@ -1,0 +1,5 @@
+Status: Rated
+
+Rating: minor
+
+Fixed minor typo/grammar errors as well as code style errors.

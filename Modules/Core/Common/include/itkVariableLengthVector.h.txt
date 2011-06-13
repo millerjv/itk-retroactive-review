@@ -1,0 +1,7 @@
+Status: Rated
+
+Rating: Minor
+
+Fixed braces and code style issues.
+
+There is a section of code that has been commented out but left in the file, it could be removed to make the file cleaner.

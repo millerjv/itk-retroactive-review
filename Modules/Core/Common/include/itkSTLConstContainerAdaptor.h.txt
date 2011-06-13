@@ -1,0 +1,5 @@
+Status: Rated
+
+Rated: Minor
+
+Gave the class a \brief, fixed minor code style errors.

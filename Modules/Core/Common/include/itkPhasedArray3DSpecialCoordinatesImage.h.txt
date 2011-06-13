@@ -1,0 +1,8 @@
+Status: Rated
+
+Rating: Major
+
+Fixed minor braces errors, but the following issues remain:
+
+1) Files must contain a single class.  This file contains multiple classes, and has lacking Doxygen documentation 
+for some of these additional classes.

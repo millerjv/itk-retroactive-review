@@ -1,0 +1,5 @@
+Status: Rated
+
+Rating: Major
+
+1) Files must contain a single class 
