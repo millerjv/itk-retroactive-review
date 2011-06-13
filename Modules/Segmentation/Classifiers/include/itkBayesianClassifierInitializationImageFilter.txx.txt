@@ -1,0 +1,13 @@
+Status: Rated
+
+Rating: Major
+
+Fixed minor errors, but the following issues remain:
+
+1) Filter should report ProgressEvents or IterationEvents
+
+2) The file contains the following comment:
+"//TODO: Choose more reasonable defaults for specifying the initial means
+//to the KMeans filter. We could also add this as an option of the filter."
+
+Should follow up with the author to see if this to-do can be implemented.

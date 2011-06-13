@@ -1,0 +1,78 @@
+Status: Rated
+
+Rating: Good
+
+Note: KWStyle outputs stange errors for this file, even though the file is ok...
+
+KWStyle output:
+
+Error #23 (71) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (71) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (71) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (71) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (71) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (71) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (71) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (71) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (71) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (71) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (71) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (71) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (71) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (71) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (71) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (71) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (71) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (71) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (71) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (71) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (71) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (71) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (71) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (71) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (71) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (71) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (71) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (71) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (71) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (71) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (71) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (71) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (71) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (71) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (71) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (78) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (78) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (78) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (78) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (78) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (78) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (78) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (78) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (78) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (78) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (78) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (78) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (78) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (78) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (78) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (78) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (78) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (78) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (78) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (78) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (78) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (78) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (78) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (78) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (78) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (78) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (78) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (78) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (78) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (78) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (78) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (78) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (78) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (78) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
+Error #23 (78) Spaces around operator are wrong: before = 0 v.s 1 ,after = 0 v.s 1
