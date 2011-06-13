@@ -1,0 +1,8 @@
+Status: Rated
+
+Rating: Major
+
+Fixed minor braces and code style errors, but the following errors remain:
+
+1) Uses multiple (itk and Accessor) namespaces, and there has been discussion on eliminating extra namespaces.
+2) Does not have a corresponding .txx or .cxx file, so method implementation is done in the .h file.
