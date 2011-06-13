@@ -1,0 +1,9 @@
+Status: Rated
+
+Rating: Good
+
+Two possible issues:
+
+1) Uses multiple namespaces (itk and Statistics), and there have been discussions about
+eliminating extra namespaces.
+2) Could use more in-file method comments and explanations.

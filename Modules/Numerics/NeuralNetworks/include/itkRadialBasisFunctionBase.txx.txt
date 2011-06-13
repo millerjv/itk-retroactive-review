@@ -1,0 +1,9 @@
+Status: Rated
+
+Rating: Minor
+
+Added spaces in code to make the file more readable.  Two possible issues remain:
+
+1) Uses multiple namespaces (itk and Statistics), and there have been discussions about
+eliminating extra namespaces.
+2) Could use more in-file method comments and explanations.

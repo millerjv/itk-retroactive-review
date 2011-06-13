@@ -1,0 +1,5 @@
+Status: Rated
+
+Rating: Good
+
+Could use more in-file method comments and explanations.
