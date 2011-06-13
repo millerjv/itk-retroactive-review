@@ -1,0 +1,6 @@
+Status: Rated
+
+Rating: Major
+
+1) File needs a progress/iterator reporter since this is a filter.
+2) Could use more in-file comments to explains steps.

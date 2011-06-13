@@ -1,0 +1,14 @@
+Status: Rated
+
+Rating: Major
+
+Gave the class a \brief, but the following errors remain:
+
+1) Contains multiple classes in one file.
+2) KWStyle errors:
+	Error #2 (37) Internal variable (Next) doesn't match regular expression
+	Error #2 (38) Internal variable (Previous) doesn't match regular expression
+	Error #3 (353) Internal variable (m_NodeList) is not aligned with the previous one
+	Error #3 (353) Internal variable (m_NodeList) is not aligned with the previous one
+3) To-do in code regarding "Document in the ITKv4 migration guide..."
+4) Threaded, but does not use ThreadGeneratedData
