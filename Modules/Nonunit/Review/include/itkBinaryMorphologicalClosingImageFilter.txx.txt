@@ -1,0 +1,9 @@
+The use of the m_SafeBorder variable, and its additional logic
+are not properly justified.
+
+They break the symmetry with the Opening filter, and add a
+computation and memory overhead to the mini-pipeline.
+
+They should be removed, or the justification for their presence
+should be better documented.
+

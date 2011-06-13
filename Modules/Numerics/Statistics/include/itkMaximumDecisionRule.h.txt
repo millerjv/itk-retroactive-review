@@ -1,0 +1,12 @@
+This class has been replaced by
+itkMaximumDecisionRule2. itkMaximumDecisionRule2 has been renamed to
+itkMaximumDecisionRule with the following changes.
+
+Class documentation insufficient. Fixed.
+
+See notes in itkDecisionRule on class label types and membership values.
+
+PrintSelf() method unnecessary. Removed.
+
+Status: Done
+Rating: Good

@@ -1,0 +1,20 @@
+MahalanobisDistanceMembershipFunction implementation is very different from the GaussianMembershipFunction. The former used all vnl_vector/vnl_matrix types while the latter uses whatever vector type is used for the measurements for the mean and uses a VariableSizeMatrix for the covariance. See note below on "Resolution".
+
+Class has a lot of extra ivars: m_Epsilon, m_DoubleMax, m_TempVec, m_TempMat.
+
+Class is missing the Clone() method from the superclass.
+
+PrintSelf does not print all the instance variables.
+
+Instance variable m_NumberOfSamples not used. Fixed.
+
+Documentation does not indicate whether the distance or the squared distance is returned. Fixed.
+
+GetMean(), GetCoveriance() should return references. Fixed.
+
+Resolution to many of these items was to make the implementation of MahalanobisDistanceMembershipFunction mirror that of the GaussianMembershipFunction. This allows VariableLengthVectors and VariableSizeMatrices to be used as measurements, means, and covariances. It also removes the extra ivars. Fixed.
+
+Mean type is not documented sufficiently. Fixed.
+
+Status: Done
+Rating: Good

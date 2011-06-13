@@ -1,0 +1,28 @@
+This class replaces itkMaximumRatioDecisionRule. It has been renamed
+to itkMaximumRatioDecisionRule and the following changes have been applied.
+
+It is hard to recognize that this decision rule is Bayes rule (or Hypothesis testing). Perhaps the motivation for not calling this a BayesDecisionRule is that neither the discriminant scores nor the a priori values are necessarily probabilities.
+
+Class and method documentation insufficient. Fixed.
+
+Class missing PrintSelf() method. Fixed.
+
+Class should be renamed itkMaximumRatioDecisionRule. Fixed.
+
+Discriminant values are doubles. Prior probabilities are float. Changed priors to match membership value types.
+
+SetAPriori() method should take a const reference. Method should be called SetPriorProbabilities(). Fixed.
+
+Changed implementation so if no priors are set, then assume a uniform prior.
+
+Doxygen does not generate for this class. Check if new class documentation works.
+
+Changed implementation to avoid nearly dividing by zero. 
+
+Ideally, there would be a scale factor applied to the ratio of priors
+so you could manage/balance the risk (balance Type I and Type II
+errors). But this is hard to do for anything other than a two class
+problem. (This is the only thing that keeps it from being marked "Done".)
+
+Status: Done
+Rating: Remove

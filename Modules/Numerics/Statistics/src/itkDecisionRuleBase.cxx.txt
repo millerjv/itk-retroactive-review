@@ -1,0 +1,6 @@
+This class has been replaced by itkDecisionRule. 
+
+Class has been removed.
+
+Status: Done
+Rating: Remove

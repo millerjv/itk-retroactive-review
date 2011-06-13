@@ -1,0 +1,14 @@
+Class documentation incomplete. Fixed.
+
+Documentation on MeanType is inadequate. By itself, it looks like the mean is defined as a scalar type. Fixed.
+
+Method documentation incomplete. Fixed.
+
+Clone() method defined here but not in superclass. Redefine method to return a smartpointer to MembershipFunctionBase. Make the method const. Fixed.
+
+Copy constructor and operator= declarations missing. Fixed.
+
+GetMean(), GetCoveriance() should return references. Fixed.
+
+Status: Done
+Rating: Good

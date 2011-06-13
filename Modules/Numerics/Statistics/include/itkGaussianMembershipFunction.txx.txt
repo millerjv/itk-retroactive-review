@@ -1,0 +1,15 @@
+Constructor did not set the mean to the proper size. Somewhat fixed. May not be known at constructor time.
+
+Constructor did not create a covariance matrix of the proper size. Fixed.
+
+PrintSelf did not print out the state of the determinant. Fixed.
+
+Changed signature of Clone() to match superclass. Changed implementation of Clone().
+
+Warning message in SetMean() not sufficient. Fixed.
+
+SetCovariance() did not call Modified(). Added check on matrix equality and a call to Modified().
+
+
+Status: Done
+Rating: Good
