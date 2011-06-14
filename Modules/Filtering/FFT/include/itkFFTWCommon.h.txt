@@ -1,0 +1,6 @@
+This is a helper program to simplify the calling of FFTW methods.  The documentation is minimal; the purpose of the program should be explicitly stated.
+
+Many of the functions have acronymns in the name, making it difficult to figure out what they do.  Examples are: Plan_dft_c2r, Plan_dft_r2c, Plan_dft.  As ITK methods, they should be more descriptive even though the FFTW methods that they call have similar names
+
+Status: Done
+Rating: Good

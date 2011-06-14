@@ -1,0 +1,10 @@
+This filter is poorly named because this actually does an inverse FFT transform not just conversion from complex to real.  The "Conjugate" in the name is also misleading.  A better name would be itkVNLInverseFFTImageFilter. 
+
+In case 3, the order of arguments may be incorrect: should it be (outputSize[1], outputSize[0], outputSize[2]) which is (rows,columns,depth)?
+
+ConstantPadImageFilter is listed in the documentation but not used. 
+
+The filter checks whether the image size is a legal dimension, which is good.  
+
+Status: Rated
+Rating: Major

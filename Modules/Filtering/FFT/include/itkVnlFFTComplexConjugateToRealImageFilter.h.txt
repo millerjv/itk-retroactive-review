@@ -1,0 +1,4 @@
+This filter is poorly named because this actually does an inverse FFT transform not just conversion from complex to real.  The "Conjugate" in the name is also misleading.  A better name would be itkVNLInverseFFTImageFilter.  
+
+Status: Rated
+Rating: Major
