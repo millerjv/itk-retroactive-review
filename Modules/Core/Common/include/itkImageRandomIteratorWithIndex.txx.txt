@@ -1,0 +1,5 @@
+Status: Rated
+
+Rating: Good
+
+File lacks any in-line comments, but other than that the file is good.

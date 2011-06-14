@@ -1,0 +1,5 @@
+Status: Rated
+
+Rating: Minor
+
+File lacked class Doxygen documentation, so I added appropriate Doxygen documentation.

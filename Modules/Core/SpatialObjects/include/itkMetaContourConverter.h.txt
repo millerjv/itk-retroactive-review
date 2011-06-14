@@ -1,0 +1,8 @@
+Status: Rated
+
+Rating: Minor
+
+Gave the class a \brief since it didn't have one.  
+Needs a more detailed \brief explanation.
+
+The .h file also has no method documentation.

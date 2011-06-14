@@ -1,0 +1,5 @@
+Status: Rated
+
+Rating: Good
+
+File is fine as is, but could use more comments and documentation to help users.

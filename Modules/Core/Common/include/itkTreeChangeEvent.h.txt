@@ -1,0 +1,8 @@
+Status: Rated
+
+Rating: Major
+
+Fixed minor errors, but:
+
+1) Files must contain a single class
+2) Lacking complete Doxygen documentation for all classes

@@ -1,0 +1,12 @@
+Status: Rated
+
+Rating: Major
+
+There is a section of code at lines 96-99 that looks like it was meant to be commented out:
+
+ /*
+      vnl_sample_uniform(0.0f,
+      static_cast<double>(m_NumberOfPixelsInRegion)-0.5) );
+ */
+
+KWStyle throws a spacing error with the above lines.

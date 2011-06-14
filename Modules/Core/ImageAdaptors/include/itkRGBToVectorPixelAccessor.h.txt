@@ -1,0 +1,7 @@
+Status: Rated
+
+Rating: Major
+
+Fixed minor code style errors, but the following issue remains:
+
+1) Uses itk and Accessor namespaces, and there has been talk about eliminating extra namespaces.

@@ -1,0 +1,49 @@
+Status: Rated
+
+Rated: Major
+
+Fixed minor error in \brief, but the following issues still exist:
+
+1) This file uses the "bio" namespace, so the filename is not technically the same as class name, and
+there have been discussions about limiting extra namespaces.
+
+2) Braces are not placed on a line by themselves.
+
+3) Method documentation should be in the .h file, not the .txx file.
+
+4) Class layout should be
+	a) Public methods come first.
+	b) Protected methods follow.
+	c) Private members come last.
+
+This class has:
+	a) Public 
+	b) Protected 
+	c) Public
+	d) Protected 
+
+5) Failed KWStyle test.  KWStyle output: 
+
+Error #2 (88) Internal variable (DefaultColor) doesn't match regular expression.
+Error #2 (90) Internal variable (BlueGene) doesn't match regular expression.
+Error #2 (91) Internal variable (RedGene) doesn't match regular expression.
+Error #2 (92) Internal variable (GreenGene) doesn't match regular expression.
+Error #2 (93) Internal variable (Cdk2E) doesn't match regular expression.
+Error #2 (94) Internal variable (Caspase) doesn't match regular expression.
+Error #2 (95) Internal variable (Pressurin) doesn't match regular expression.
+Error #2 (98) Internal variable (MaximumGenerationLimit) doesn't match regular expression.
+Error #2 (99) Internal variable (GrowthMaximumLatencyTime) doesn't match regular expression.
+Error #2 (100) Internal variable (DivisionMaximumLatencyTime) doesn't match regular expression.
+Error #2 (102) Internal variable (EnergySelfRepairLevel) doesn't match regular expression.
+Error #2 (103) Internal variable (NutrientSelfRepairLevel) doesn't match regular expression.
+Error #2 (105) Internal variable (DefaultEnergyIntake) doesn't match regular expression.
+Error #2 (106) Internal variable (DefaultNutrientsIntake) doesn't match regular expression.
+Error #2 (108) Internal variable (Counter) doesn't match regular expression.
+Error #2 (110) Internal variable (WellNourishedColor) doesn't match regular expression.
+Error #2 (111) Internal variable (HopefullColor) doesn't match regular expression.
+Error #2 (112) Internal variable (StarvingColor) doesn't match regular expression.
+Error #2 (114) Internal variable (ChemoAttractantLowThreshold) doesn't match regular expression.
+Error #2 (115) Internal variable (ChemoAttractantHighThreshold) doesn't match regular expression.
+Error #2 (120) Internal variable (DefaultRadius) doesn't match regular expression.
+Error #2 (121) Internal variable (GrowthRadiusLimit) doesn't match regular expression.
+Error #2 (122) Internal variable (GrowthRadiusIncrement) doesn't match regular expression.

@@ -1,0 +1,7 @@
+Status: Rated
+
+Rating: Good
+
+File seems ok, although there are a few concerns:
+
+1) There is a "// fix me" line in the code

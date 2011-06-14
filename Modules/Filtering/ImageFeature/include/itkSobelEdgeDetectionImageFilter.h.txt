@@ -1,0 +1,7 @@
+Status: Rated
+
+Rating: Minor
+
+Fixed a braces code style errors.  The following issue remains:
+
+1) Threaded, but uses GenerateData() instead of ThreadGeneratedData()

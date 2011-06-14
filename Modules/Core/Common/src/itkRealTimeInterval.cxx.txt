@@ -1,0 +1,5 @@
+Status: Rated
+
+Rating: Minor
+
+Fixed minor commenting style errors and removed extra (unnecessary) lines.

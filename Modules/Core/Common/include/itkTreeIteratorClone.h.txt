@@ -1,0 +1,9 @@
+Status: Rated
+
+Rating: Major
+
+Fixed minor typo/grammar issues, gave the file class Doxygen documentation, and fixed some code style issues.
+
+However,
+
+1) The class doesn't have a corresponding .txx or .cxx file, and therefore method implementation is in the .h file.

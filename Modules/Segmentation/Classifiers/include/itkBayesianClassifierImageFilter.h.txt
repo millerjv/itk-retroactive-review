@@ -1,0 +1,7 @@
+Status: Rated
+
+Rating: Major
+
+The file is fine, except for the following issue:
+
+1) Filter should report ProgressEvents or IterationEvents

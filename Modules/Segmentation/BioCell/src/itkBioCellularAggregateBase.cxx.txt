@@ -1,0 +1,8 @@
+Status: Rated
+
+Rated: Major
+
+The following issue exists:
+
+1) This file uses the "bio" namespace, so the filename is not technically the same as class name, and
+there have been discussions about limiting extra namespaces.

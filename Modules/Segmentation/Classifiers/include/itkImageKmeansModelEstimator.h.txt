@@ -1,0 +1,8 @@
+Status: Rated
+
+Rating: Minor
+
+Fixed minor typos and grammatical errors.
+
+One potential issue, this file uses acronyms in method names, 
+and there should be no acronyms in class name or method names.

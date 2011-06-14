@@ -1,0 +1,10 @@
+Status: Rated
+
+Rating: Major
+
+Fixed minor typo/grammar errors, as well as KWStyle errors due to the spacing of braces.
+
+The following issues remain:
+
+1) Implementation of methods must be in the .txx or .cxx files, not the .h files
+(See ::NextLine(void) and ::PreviousLine(void))

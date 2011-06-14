@@ -1,0 +1,8 @@
+Status: Rated
+
+Rating: Major
+
+Fixed minor typo/grammar and code-style errors, but the follwing issues remain:
+
+1) Contains a number of functions that do nothing and only exist so as not to break the pipeline.
+2) Contains a large amount of commented out code that may or may not be necessary

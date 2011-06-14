@@ -1,0 +1,7 @@
+Status: Rated
+
+Rating: Major
+
+File is ok, but:
+
+1)Uses itk and Functor namespaces, and there has been discussion about eliminating multiple namespaces.

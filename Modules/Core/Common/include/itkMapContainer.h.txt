@@ -1,0 +1,8 @@
+Status: Rated
+
+Rating: Major
+
+Fixed a few minor Doxygen documentation errors and typos, but the following issues remain:
+
+1) File contains multiple classes
+2) Implementation of methods must be in the .txx or .cxx files, not the .h files 

@@ -1,0 +1,5 @@
+Status: Rated
+
+Rating: Minor
+
+Fixed minor \brief issue, as well as minor typo/grammar errors.

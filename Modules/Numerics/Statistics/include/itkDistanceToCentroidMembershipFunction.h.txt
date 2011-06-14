@@ -1,0 +1,10 @@
+Class documentation is not adequate. Fixed.
+
+CentroidType defined from DistanceFunction and is not defined as the TVector type of the class. This could make is a bit more challenging to swap between various membership functions. Hopefully the DistanceMetrics get templated over the same vector type as the membership function.
+
+The API to various MembershipFunctions is inconsistent. Some use SetMean/SetCovariance while this one uses SetCentroid.
+
+Clone method declaration needs to match superclass. Fixed.
+
+Status: Done
+Rating: Good 

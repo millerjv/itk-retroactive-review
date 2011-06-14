@@ -1,0 +1,7 @@
+Status: Rated
+
+Rating: Major
+
+1) Implementation of methods is in this file (the .h file).  Does not have a corresponding .txx or .cxx file.
+
+2) Lacking Doxygen documentation (\class, \brief, etc.)

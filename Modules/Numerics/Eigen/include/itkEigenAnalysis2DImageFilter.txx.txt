@@ -1,0 +1,7 @@
+Status: Rated
+
+Rated: Good
+
+There is a to-do in the code, though, that should be followed up:
+ "* \todo Verify that MakeOutput is createing the right type of objects
+  *  this could be the cause of the reinterpret_cast bug in this class"

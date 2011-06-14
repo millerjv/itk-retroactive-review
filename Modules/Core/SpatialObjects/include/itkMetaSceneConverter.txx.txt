@@ -1,0 +1,5 @@
+Status: Rated
+
+Rating: Good
+
+Could use more comments to guide the user through method implementation.

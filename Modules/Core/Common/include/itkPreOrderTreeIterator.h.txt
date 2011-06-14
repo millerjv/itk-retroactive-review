@@ -1,0 +1,7 @@
+Status: Rated
+
+Rated: Major
+
+1) Files must contain a single class
+2) Implementation of methods must be in the .txx or .cxx files, not the .h files 
+3) Lacking complete class doxygen description 

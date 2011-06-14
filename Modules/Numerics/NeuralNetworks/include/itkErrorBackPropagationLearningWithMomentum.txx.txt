@@ -1,0 +1,8 @@
+Status: Rated
+
+Rating: Good
+
+Possible issue:
+
+1) Uses multiple namespaces (itk and Statistics), and there have been discussions about
+eliminating extra namespaces.

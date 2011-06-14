@@ -1,0 +1,8 @@
+Status: Rated
+
+Rating: Minor
+
+Gave the file a \brief since it didn't have one.
+\brief could use more detailed explanation, though.
+
+The .h file could use more method documentation.

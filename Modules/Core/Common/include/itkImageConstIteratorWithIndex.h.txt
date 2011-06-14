@@ -1,0 +1,5 @@
+Status: Rated
+
+Rating: Minor
+
+Fixed minor typo, grammar errors, and put all braces on a line by themselves.

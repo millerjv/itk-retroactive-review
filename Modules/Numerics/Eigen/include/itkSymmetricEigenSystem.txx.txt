@@ -1,0 +1,10 @@
+Status: Rating
+
+Rated: Remove
+
+The .h file contains the following notice:
+
+\warning THIS CLASS IS DEPRECATED AND IT IS SCHEDULED FOR BEING REMOVED
+ *   FROM THE TOOLKIT IN RELEASE 2.4
+
+If this is true, then this file and the .h file should be removed.
