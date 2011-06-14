@@ -1,0 +1,15 @@
+Coverage
+--------
+
+Improved coverage by testing in dimension 1, 2, 3 and 4.
+
+To this end, one templated test has been created (template over the image
+dimension).
+
+Arguments of the templated function are respectively:
+* the number of inner positive elements
+* the number of inner negative elements
+* the rest
+
+The test is valid if the number of expected elements (see above) matches
+the number of elements while running the test in dimension 1, 2, 3 and 4.
