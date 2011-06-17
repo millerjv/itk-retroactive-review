@@ -1,0 +1,11 @@
+Status: Rated
+
+Rating: Minor
+
+
+Fixed minor typo/grammar errors.
+
+This filter is a similar implementation of the MedianImageFilter, but for
+binary images (MedianImageFilter performs unnecessary operations when the input
+image is binary).  Perhaps this implementation could be merged with the
+MedianImageFilter implementation as an extra input flag when the input is binary.

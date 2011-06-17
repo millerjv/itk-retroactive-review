@@ -1,0 +1,5 @@
+Status: Rated
+
+Rating: Major
+
+Filter should report either ProgressEvents or IterationEvents, but currently does neither.
