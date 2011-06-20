@@ -1,0 +1,10 @@
+This filter is poorly named because this actually does a forward FFT transform not just conversion from real to complex.  The "Conjugate" in the name is also misleading.  A better name would be itkVNLForwardFFTImageFilter.  
+
+In case 3, the order of arguments may be incorrect: should it be (outputSize[1], outputSize[0], outputSize[2]) which is (rows,columns,depth)?
+
+The filter should enable the user to specify the output size.  For example, for convolution/correlation, before taking the FFT, the input image is padded with zeros to size (N+M-1) in each dimension, where N is the size of the first image and M the size of the second image in each dimension.  A padding option should therefore also be given. ConstantPadImageFilter is listed in the documentation but not used. 
+
+The filter checks whether the image size is a legal dimension, which is good.  But should it also pad the image if it is not a valid dimension?
+
+Status: Rated
+Rating: Major
