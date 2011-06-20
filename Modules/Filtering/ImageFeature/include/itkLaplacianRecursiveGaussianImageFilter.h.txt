@@ -1,0 +1,11 @@
+Status: Rated
+
+Rating: Major
+
+Fixed minor grammar errors.
+
+The following issue remains:
+
+1) File contains multiple classes
+
+2) No Doxygen documentation for the second class

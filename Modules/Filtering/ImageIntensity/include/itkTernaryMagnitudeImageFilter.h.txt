@@ -1,0 +1,13 @@
+Status: Rated
+
+Rating: Major
+
+1) File contains multiple classes
+
+2) Uses multiple namespaces (itk and Functor), and there has been discussion about
+eliminating multiple namespaces.
+
+3) Doxygen documentation only for Modulus3 class.
+No documentation for TernaryMagnitudeImageFilter class.
+
+4) Filter does not report progress events.

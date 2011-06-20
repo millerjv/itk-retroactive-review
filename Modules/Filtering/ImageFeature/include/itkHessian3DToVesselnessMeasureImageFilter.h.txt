@@ -1,0 +1,9 @@
+Status: Rated
+
+Rating: Minor
+
+Fixed a minor code style error in \brief.
+
+The following issue remains:
+
+Filter does not report a ProgressEvent.

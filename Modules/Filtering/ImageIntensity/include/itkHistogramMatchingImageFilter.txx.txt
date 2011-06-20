@@ -1,0 +1,12 @@
+Status: Rated
+
+Rating: Major
+
+1) Filter reports progress, but doesn't use the ProgressReporter class.
+
+2) File has space for method implementation comments, but no text.
+For example:
+/**
+ *
+ */
+Comments should be filled in here to help the user understand method implementation.
