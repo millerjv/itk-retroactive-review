@@ -1,0 +1,7 @@
+Status: Rated
+
+Rating: Minor
+
+Fixed a few minor typo/grammar errors.
+
+However, the filter should report ProgressEvents or IterationEvents, but does neither.
